@@ -1,0 +1,2 @@
+# Graph-Coloring-Problem
+Graph Colouring problem is to assign colours to certain elements of a graph subject to certain constraints. The problem is, given an undirected graph and a number m, determine if the graph can be coloured with at most m colours such that no two adjacent vertices of the graph are coloured with a same colour. Here colouring of a graph means assignment of colours to all vertices.
